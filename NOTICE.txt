@@ -1,0 +1,13 @@
+Copyright 2026 University Medical Center Groningen 
+Copyright 2026 University of Washinghton 
+
+This software product is developed for the Emission Tomography Standardization
+Initiative (ETSI), https://etisinitiative.org.
+
+Main contributors:
+Nikos Efthimiou (UMCG)
+Robert Harrisson (UW, retired)
+
+### Apache License ###
+
+All documents are covered by the Apache 2.0 license, unless otherwise specified.

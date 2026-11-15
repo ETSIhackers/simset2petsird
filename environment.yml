@@ -1,0 +1,14 @@
+name: petsird
+channels:
+  - conda-forge/label/stir_dev
+  - conda-forge
+  - defaults
+dependencies:
+  - bash-completion>=2.11
+  - cmake>=3.21.3
+  - fmt>=8.1.1
+  - cxx-compiler
+  - libpetsird>=0.12.2,<0.13.0
+  - just=1.36.0
+  - ninja>=1.11.0
+  - shellcheck>=0.8.0

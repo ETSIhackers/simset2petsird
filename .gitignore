@@ -1,0 +1,13 @@
+**/build/
+**/__pycache__/
+
+# Common editor backups
+~$*
+*~
+*.bak
+\#*
+
+stir/
+data/
+
+.vscode
